@@ -1,5 +1,5 @@
 # TutorialsNinja-Automation-Testing-using-Selenium-Python
-TutorialsNinja (https://tutorialsninja.com/demo/) Automation Testing using Selenium Python
+TutorialsNinja (https://tutorialsninja.com/demo/) Automation Testing using Selenium Python https://github.com/mimusa35/TutorialsNinja-Automation-Testing-using-Selenium-Python
 
 
 
